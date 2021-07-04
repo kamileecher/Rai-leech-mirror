@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/71d5a05798ebb69df077b.jpg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://telegra.ph/file/4b6a681b43219cf9cf87e.jpg)](https://telegram.dog/cloudsmirror)
 
 # Rai - Leech - Mirror
 
