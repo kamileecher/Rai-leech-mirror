@@ -1,10 +1,10 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://telegra.ph/file/71d5a05798ebb69df077b.jpg)](https://telegram.dog/cloudsmirror)
 
 # Deepak Clouds Tortoolkit Leech Mirror
 
 # Depoy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepakcloudsoffical/Deepak-Clouds-Tortoolkit-Leech-Mirror)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kumarhariomrai/Rai-leech-mirror)
 
 # Features
 Following are some awesome features offered by this bot:-
